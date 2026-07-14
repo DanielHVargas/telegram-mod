@@ -1,4 +1,4 @@
-name: Build Telegram APK
+name: Build Korechat APK
 
 on:
   push:

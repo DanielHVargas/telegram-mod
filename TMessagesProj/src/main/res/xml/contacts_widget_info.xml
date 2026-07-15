@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <appwidget-provider
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:minWidth="110dp"
@@ -16,5 +16,5 @@
     android:previewImage="@drawable/contacts_widget_preview"
     android:previewLayout="@layout/contacts_widget_layout_preview"
     android:widgetFeatures="reconfigurable|configuration_optional"
-    android:configure="org.Korechat.ui.ContactsWidgetConfigActivity">
+    android:configure="org.telegram.ui.ContactsWidgetConfigActivity">
 </appwidget-provider>
